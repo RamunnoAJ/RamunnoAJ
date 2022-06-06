@@ -1,6 +1,7 @@
 - 👋 Hi guys! I’m Agustín Ramunno and I'm from Argentina
 - 👀 I love gaming and playing basketball, I've been doing these two since I'm 9 yo (21 atm)
 - 🌱 I’m giving it a chance to coding, I always tought it was for math geniuses but a few friends convince me that I do not need to be a genius to code, and here I am
+- I know HTML, CSS and JavaScript aiming for web developmente, right now I'm learning Vue.js to add it as my main framework
 - 📫 You can DM me on discord, my tag is Ramunno#2076
 
 <!---
