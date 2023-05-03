@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agustín</h1>
 <h3 align="center">A self-taught web developer based on Buenos Aires, Argentina</h3>
 
-- 🌱 I’m currently improving my **Fullstack** skills on **r/argentina-programa**
+- 🌱 I’m currently improving my **Fullstack** skills on **r/argentina-programa** and learning about databases on **CFL N°415**
 
 - 📫 How to reach me **ramunnoagustin@gmail.com** or DM on discord **Ramunno#2076**
 
