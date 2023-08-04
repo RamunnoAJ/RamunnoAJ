@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agustín</h1>
 <h3 align="center">A self-taught web developer based on Buenos Aires, Argentina</h3>
 
-- 🌱 I’m currently improving my **Fullstack** skills on **r/argentina-programa** and learning about databases on **CFL N°415**
+- 🌱 I’m currently improving my **Fullstack** skills on **r/argentina-programa**
 
 - 📫 How to reach me **ramunnoagustin@gmail.com** or DM on discord **Ramunno#2076**
 
@@ -51,5 +51,4 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/aramunno-frontend-vue/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aramunno-frontend-vue/" height="30" width="40" /></a>
-<a href="https://instagram.com/agustinram1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/agustinram1/" height="30" width="40" /></a>
 </p>
