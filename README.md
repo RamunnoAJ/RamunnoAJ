@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently improving my **Fullstack** skills on **r/argentina-programa**
 
+- 💼 I'm working as a Front-End Developer on Bling Masters (MX)
+
 - 📫 How to reach me **ramunnoagustin@gmail.com** or DM on discord **Ramunno#2076**
 
 - ⚡ Fun fact **I love sarcastic people and being sarcastic myself**
