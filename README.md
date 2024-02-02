@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Agustín</h1>
 <h3 align="center">A self-taught web developer based on Buenos Aires, Argentina</h3>
 
-- 🌱 I’m currently improving my **Fullstack** skills on **r/argentina-programa**
+- 🌱 I’m currently learning **Rust** and improving my Full-Stack skills on **r/argentina-programa**
 
-- 💼 I'm working as a Front-End Developer on Bling Masters (MX)
+- 💼 I'm working as a Full-Stack Developer on Bling Masters (MX)
 
-- 📫 How to reach me **ramunnoagustin@gmail.com** or DM on discord **Ramunno#2076**
+- 📫 How to reach me **ramunnoagustin@gmail.com**
 
 - ⚡ Fun fact **I love sarcastic people and being sarcastic myself**
 
@@ -95,5 +95,5 @@
 ## Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/aramunno-frontend-vue/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aramunno-frontend-vue/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/agustinramunno-dev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/agustinramunno-dev/" height="30" width="40" /></a>
 </p>
