@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agustín</h1>
 <h3 align="center">A self-taught web developer based on Buenos Aires, Argentina</h3>
 
-- 🌱 I’m currently learning **Rust** and improving my Full-Stack skills on **r/argentina-programa**
+- 🌱 I’m currently learning **Rust** and studying a Bachelor's Degree on Computer Science on **CAECE University**
 
 - 💼 I'm working as a Full-Stack Developer on Bling Masters (MX)
 
